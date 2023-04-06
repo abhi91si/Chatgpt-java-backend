@@ -60,7 +60,7 @@ public class TestClass {
 	}
 
 	/**
-	 * Method to
+	 * Method to calculate
 	 */
 	public static int calculateApprovalsPending() {
 
